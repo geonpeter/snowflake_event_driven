@@ -1,4 +1,4 @@
-# snowflake_event_driven
+# snowflake_event_driven (Coding)
 
 ## Event driven data ingestion in snowflake table using SnowPipe (Tech Stack Used : Google Storage Bucket, GCP Pub-Sub, Snowflake)
       -> Create storage integration in snowflake to read data from external Google Storage Bucket
