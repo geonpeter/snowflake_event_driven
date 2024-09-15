@@ -11,6 +11,13 @@ This guide outlines the steps for setting up a Snowpipe integration between Snow
   - A service account with access to GCS and Pub/Sub.
 
 ---
+# Snowflake - GCP Snowpipe Integration
+
+This guide outlines the steps for setting up a Snowpipe integration between Snowflake and Google Cloud Storage (GCS).
+
+## Architecture Diagram
+![Diagram of Snowflake Integration](https://github.com/user-attachments/assets/1086c7f8-5218-41f4-942e-9404bcaac083)
+
 
 ## Steps to Set Up Snowpipe Integration
 
